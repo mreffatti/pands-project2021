@@ -1,0 +1,8 @@
+
+Counter({'setosa': 50, 'versicolor': 50, 'virginica': 50})
+Averages:
+sepal_length    5.843333
+sepal_width     3.054000
+petal_length    3.758667
+petal_width     1.198667
+dtype: float64
