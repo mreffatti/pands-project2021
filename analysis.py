@@ -1,4 +1,6 @@
 #Author: Marcelo Reffatti
+
+
 #analysis iris.csv
 import pandas as pd
 import numpy as np
@@ -41,6 +43,4 @@ plt.savefig('histogram.png')
 data_file.plot.scatter(x='sepal_length', y='sepal_width', title='Iris Dataset - SEPALS')
 data_file.plot.scatter(x='petal_length', y='petal_width', title='Iris Dataset - PETALS')
 plt.show()
-
-
 
